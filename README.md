@@ -2,7 +2,7 @@
 gclone  
 ====  
 English [Tutorial Gclone and Autorclone](https://www.uud.me/qiwenzalun/autorclone-gclone-win.html)  
-**Use remove.py to massively remove the Google Service Account's , usually you need to set it's the fileorganizer as role**
+**Install requirements.txt for python dependencies and use remove.py to massively remove the Google Service Account's , usually you need to set it's the fileorganizer as role**
 
 A modified version of the [rclone](//github.com/rclone/rclone) 
 Provide dynamic replacement sa file support for google drive operation
